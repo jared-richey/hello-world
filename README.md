@@ -10,3 +10,4 @@ This repository is for practicing the GitHub Flow.
 ## Additional Information
  [Pluralsight](https://app.pluralsight.com)  
  [Google Classroom](https://classroom.google.com)  
+ [Slack Channel](https://app.slack.com/)  
